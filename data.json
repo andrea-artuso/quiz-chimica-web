@@ -1,5 +1,365 @@
 [
     {
+        "question": "La massa di un singolo atomo di bario",
+        "answers": [
+            "a) è pari a 137,3 uma",
+            "b) dipende dall'isotopo di bario considerato",
+            "c) Nessuna delle è pari a 137,3 g",
+            "d) è pari alla somma esatta delle masse di nucleoni ed elettroni",
+            "e) è pari a 137,3 g/mol"
+        ],
+        "correct": "b",
+        "type": "parziale1"
+    },
+    {
+        "question": "Calcola quanti grammi di ossigeno atomico ci sono in 3 mol di ossigeno gassoso.",
+        "answers": [
+            "a) 96",
+            "b) 48",
+            "c) 3 * Na",
+            "d) 6 / Na",
+            "e) 3 / Na"
+        ],
+        "correct": "a",
+        "type": "parziale1"
+    },
+    {
+        "question": "Indica quali coefficienti stechiometrici bilanciano questa reazione: NO3- + Zn + OH- --> NH3 + ZnO2(2-) + H2O",
+        "answers": [
+            "a) 1/4/7/1/4/2",
+            "b) 1/8/5/3/5/1",
+            "c) 2/8/14/2/8/4",
+            "d) 2/4/7/2/2/1",
+            "e) 3/2/4/7/1/2"
+        ],
+        "correct": "a",
+        "type": "parziale1"
+    },
+    {
+        "question": "Identifica l'elemento con valore di affinità elettronica più negativo.",
+        "answers": [
+            "a) Neon",
+            "b) Iodio",
+            "c) Cloro",
+            "d) Potassio",
+            "e) Calcio"
+        ],
+        "correct": "c",
+        "type": "parziale1"
+    },
+    {
+        "question": "Individua l'insieme che contiene tutti elementi del 6° periodo.",
+        "answers": [
+            "a) Cr; Mo; W; Sg",
+            "b) S; Se; Te; Po",
+            "c) Cs; Pb; Po; Xe",
+            "d) Nessuna delle altre risposte è corretta",
+            "e) Au; Hg; Pb; Ce"
+        ],
+        "correct": "e",
+        "type": "parziale1"
+    },
+    {
+        "question": "Quale dei seguenti composti ionici è caratterizzato dalla maggiore energia reticolare (in valore assoluto)?",
+        "answers": [
+            "a) LiCl",
+            "b) LiI",
+            "c) NaF",
+            "d) LiBr",
+            "e) LiF"
+        ],
+        "correct": "e",
+        "type": "parziale1"
+    },
+    {
+        "question": "Indica a quale specie si riferisce la geometria VSEPR disegnata. (3 atomi legati ad un atomo centrale con angoli a 120°)",
+        "answers": [
+            "a) H2O",
+            "b) Ossido di iodio (III)",
+            "c) NH3",
+            "d) PH3",
+            "e) BF3"
+        ],
+        "correct": "e",
+        "type": "parziale1"
+    },
+    {
+        "question": "Un contenitore è suddiviso in due vani separati da una parete fissa e ogni vano contiene un differente gas ideale. Se VA = VB = 1 L, pA = 4 atm e pB = 1 atm, calcola la pressione finale che si ottiene se la parete viene lasciata libera di scorrere orizzontalmente senza attrito e a temperatura costante.",
+        "answers": [
+            "a) 2 atm",
+            "b) 3 atm",
+            "c) 1.5 atm",
+            "d) Dipende dalla temperatura",
+            "e) 2.5 atm"
+        ],
+        "correct": "e",
+        "type": "parziale1"
+    },
+    {
+        "question": "Seleziona il legame più lungo:",
+        "answers": [
+            "a) C-C",
+            "b) C=C",
+            "c) C-N",
+            "d) C=O",
+            "e) C-O"
+        ],
+        "correct": "a",
+        "type": "parziale1"
+    },
+    {
+        "question": "Quale dei seguenti gas ha il minore valore del parametro 𝑎 nell'equazione di Van der Waals?",
+        "answers": [
+            "a) Clorometano",
+            "b) Monossido di azoto",
+            "c) Elio",
+            "d) Diossido di carbonio",
+            "e) Vapore acqueo"
+        ],
+        "correct": "c",
+        "type": "parziale1"
+    },
+    {
+        "question": "Quale tipo di funzione descrive il grafico P vs. V di un gas perfetto in condizioni isoterme?",
+        "answers": [
+            "a) Iperbole",
+            "b) Retta",
+            "c) Logaritmica",
+            "d) Esponenziale",
+            "e) Potenza alla seconda"
+        ],
+        "correct": "a",
+        "type": "parziale1"
+    },
+    {
+        "question": "Individua l'affermazione errata, con riferimento ai metalli alcalino-terrosi.",
+        "answers": [
+            "a) Per la maggior parte, reagiscono violentemente con l'acqua",
+            "b) I loro cationi presentano la configurazione elettronica di un gas nobile",
+            "c) Almeno uno di essi è radioattivo",
+            "d) Possiedono due elettroni spaiati",
+            "e) Nessuna delle altre affermazioni è errata"
+        ],
+        "correct": "d",
+        "type": "parziale1"
+    },
+    {
+        "question": "Indica il composto il cui legame chimico presenta il maggior grado di ionicità.",
+        "answers": [
+            "a) Ossido di bario",
+            "b) Cloruro di litio",
+            "c) Monossido di carbonio",
+            "d) Ossido di zinco",
+            "e) Monossido di azoto"
+        ],
+        "correct": "a",
+        "type": "parziale1"
+    },
+    {
+        "question": "4 g di elio contengono",
+        "answers": [
+            "a) 2 atomi di elio",
+            "b) 2 mol di protoni",
+            "c) 4 * Na atomi di elio",
+            "d) 1 molecola di elio",
+            "e) la quantità di elio contenuta in mezza mole di elio"
+        ],
+        "correct": "b",
+        "type": "parziale1"
+    },
+    {
+        "question": "2 molecole di azoto reagiscono con 2 molecole di ossigeno, producendo diossido di azoto. Quante molecole sono presenti nel reattore al termine della reazione?",
+        "answers": [
+            "a) 5",
+            "b) 3",
+            "c) 4",
+            "d) 7",
+            "e) 2"
+        ],
+        "correct": "b",
+        "type": "parziale1"
+    },
+    {
+        "question": "Individua il composto.",
+        "answers": [
+            "a) Ozono",
+            "b) Sodio",
+            "c) Ammoniaca",
+            "d) Aria",
+            "e) Vino"
+        ],
+        "correct": "c",
+        "type": "parziale1"
+    },
+    {
+        "question": "Identifica lo ione col raggio maggiore.",
+        "answers": [
+            "a) Li+",
+            "b) O(2-)",
+            "c) F-",
+            "d) S(2-)",
+            "e) Na+"
+        ],
+        "correct": "d",
+        "type": "parziale1"
+    },
+    {
+        "question": "Identifica qual è la terna di specie non isoelettroniche.",
+        "answers": [
+            "a) Ne Al(3+) Na+",
+            "b) Mg(2+) F- Ne",
+            "c) Ar S(2-) Ca(2+)",
+            "d) Sn(2+) Cd Sb(3+)",
+            "e) Sono tutte terne isoelettroniche"
+        ],
+        "correct": "e",
+        "type": "parziale1"
+    },
+    {
+        "question": "Individua l'affermazione errata.",
+        "answers": [
+            "a) Tutte le sostanze elementari sono costituite da un solo elemento",
+            "b) Due o più gas sono sempre miscibili",
+            "c) Una soluzione omogenea può essere separata nei suoi componenti",
+            "d) Tutti i composti sono costituiti da molecole",
+            "e) Le leghe metalliche sono soluzioni solide"
+        ],
+        "correct": "d",
+        "type": "parziale1"
+    },
+    {
+        "question": "Calcola quante molecole sono presenti in 40g di elio.",
+        "answers": [
+            "a) 40 * Na",
+            "b) 10 * Na",
+            "c) 10 / Na",
+            "d) 0",
+            "e) 5 * Na"
+        ],
+        "correct": "d",
+        "type": "parziale1"
+    },
+    {
+        "question": "Dividendo l'energia di un fotone per la sua frequenza si ottiene...",
+        "answers": [
+            "a) 𝜋",
+            "b) Nessuna delle altre risposte",
+            "c) La quantità di moto del fotone",
+            "d) La velocità del fotone",
+            "e) Il livello fondamentale dell'elettrone"
+        ],
+        "correct": "b",
+        "type": "parziale1"
+    },
+    {
+        "question": "Il numero quantico identificato dalla lettera l è associato...",
+        "answers": [
+            "a) All'energia dell'orbitale",
+            "b) Alla dimensione dell'orbitale",
+            "c) Alla forma dell'orbitale",
+            "d) Al rapporto carica/massa",
+            "e) All'orientazione dell'orbitale"
+        ],
+        "correct": "c",
+        "type": "parziale1"
+    },
+    {
+        "question": "Individua la sequenza in cui i composti presentano numero di ossidazione del bromo crescente.",
+        "answers": [
+            "a) Bromo molecolare, bromuro di potassio, ipobromito di calcio, anidride bromica, perbromato di sodio",
+            "b) Perbromato di sodio, anidride bromica, ipobromito di calcio, bromo molecolare, bromuro di potassio",
+            "c) Bromuro di potassio, bromo molecolare, ipobromito di calcio, anidride bromica, perbromato di sodio",
+            "d) Bromuro di potassio, ipobromito di calcio, anidride bromica, perbromato di sodio, bromo molecolare",
+            "e) Bromo molecolare, ipobromito di calcio, anidride bromica, perbromato di sodio, bromuro di potassio"
+        ],
+        "correct": "c",
+        "type": "parziale1"
+    },
+    {
+        "question": "Cosa accomuna gli elementi dello stesso periodo della tavola periodica?",
+        "answers": [
+            "a) La reattività",
+            "b) Il valore massimo massimo del numero quantico principale",
+            "c) Il periodo di scoperta",
+            "d) Il numero di orbitali occupati",
+            "e) Il guscio di valenza"
+        ],
+        "correct": "b",
+        "type": "parziale1"
+    },
+    {
+        "question": "Indica quale dei seguenti gas presenta mediamente la maggiore frazione molare nell'aria secca.",
+        "answers": [
+            "a) Radon",
+            "b) Argon",
+            "c) Elio",
+            "d) Idrogeno",
+            "e) Anidride carbonica"
+        ],
+        "correct": "b",
+        "type": "parziale1"
+    },
+    {
+        "question": "Che volume occupa 1 mol di gas perfetto a 1 atm e 25 °C?",
+        "answers": [
+            "a) 24.5 L",
+            "b) Dipende dal tipo di gas",
+            "c) 22.4 L",
+            "d) 24.4 m^3",
+            "e) 22.4 m^3"
+        ],
+        "correct": "a",
+        "type": "parziale1"
+    },
+    {
+        "question": "La configurazione elettronica 1s2 2s2 2p6 comporta il riempimento di ...",
+        "answers": [
+            "a) 10 orbitali",
+            "b) 8 orbitali",
+            "c) 3 orbitali",
+            "d) 5 orbitali",
+            "e) 2 orbitali"
+        ],
+        "correct": "d",
+        "type": "parziale1"
+    },
+    {
+        "question": "La teoria cinetica dei gas consente di prevedere...",
+        "answers": [
+            "a) la distribuzione delle velocità delle particelle di un gas.",
+            "b) Lo scostamento dell'idealità di un gas reale",
+            "c) La distribuzione del peso atomico delle particelle di un gas",
+            "d) La dipendenza del volume del gas dalla temperatura",
+            "e) La temperatura di liquefazione del gas"
+        ],
+        "correct": "a",
+        "type": "parziale1"
+    },
+    {
+        "question": "Una piccola quantità di grafite brucia in un recipiente riempito di aria secca. Quale gas avrà la maggiore pressione parziale a fine reazione?",
+        "answers": [
+            "a) Monossido di carbonio",
+            "b) Anidride carbonica",
+            "c) Azoto",
+            "d) Vapore acqueo",
+            "e) La grafite non dà combustione"
+        ],
+        "correct": "c",
+        "type": "parziale1"
+    },
+    {
+        "question": "Seleziona l'elemento con la più bassa energia di seconda ionizzazione.",
+        "answers": [
+            "a) Argon",
+            "b) Cloro",
+            "c) Magnesio",
+            "d) Sodio",
+            "e) Potassio"
+        ],
+        "correct": "c",
+        "type": "parziale1"
+    },
+    {
         "question": "La fusione del ghiaccio \u00e8 una reazione;",
         "answers": [
             "a) Isoentalpica",
