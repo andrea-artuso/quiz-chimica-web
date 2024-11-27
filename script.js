@@ -140,11 +140,11 @@ document.querySelector("#btn-end").addEventListener('click', end)
 
 document.querySelector("#timer").innerHTML = Timer.formatTime(TIME)
 
-if (localStorage.getItem("disclaimerRead") === null || localStorage.getItem("disclaimerRead") === false){
+if (sessionStorage.getItem("disclaimerRead") === null || sessionStorage.getItem("disclaimerRead") === false){
     var myModal = new bootstrap.Modal(document.getElementById('disclaimer'), {})
     myModal.toggle()
 }
 
 function hideDisclaimer(){
-    localStorage.setItem("disclaimerRead", true)
+    sessionStorage.setItem("disclaimerRead", true)
 }
