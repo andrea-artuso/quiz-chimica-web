@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz di chimica</title>
+
+    <!-- Bootstrap -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+
+    <!-- Bootstrap icons -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+
+    <style>
+        .invisible {
+            visibility: hidden;
+        }
+    </style>
+</head>
+<body style="height: 100vh; overflow: hidden;">
+
+    <div class="modal" tabindex="-1" id="disclaimer">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Attenzione</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <p>Questo sito è stato creato da uno studente nel tentativo disperato di superare il tanto temuto esame di Chimica generale al PoliTO. Questo sito può essere utilizzato per esercitarsi nello svolgimento dei quiz di chimica rispondendo a 15 domande <b>simili</b> a quelle del quiz.
+                    <br>
+                    Le domande <b>NON SONO UFFICIALI</b>, ma sono state raccolte da diverse fonti quali: libri di testo, lezioni, esercitazioni, materiale online di vario genere, per questo motivo non è garantito che le risposte siano corrette.
+                    Il sito è stato scritto in una notte tre giorni prima dell'esame (forse avrei dovuto pensarci un po' prima) quindi conterrà degli errori, ma sembra funzionare.
+                    <br>
+                    TL;DR: le domande che troverete all'esame saranno diverse da quelle disponibili in questo sito al 99.999%.
+                </p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary" data-bs-dismiss="modal" onclick="hideDisclaimer()">Ho letto e compreso</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <nav class="navbar bg-body-tertiary px-3">
+        <div class="w-100 d-flex justify-content-between">
+            <h2 class="navbar-brand">Quiz di chimica</h2>
+
+            <div>
+                <input type="button" class="btn btn-secondary" id="btn-reset" value="Reset" onclick="location.reload()" disabled></button>
+                
+                <div class="btn-group" role="group">
+                    <input type="radio" class="btn-check" name="examtype" id="parziale1" value="parziale1" autocomplete="off" disabled>
+                    <label class="btn btn-primary" for="parziale1">1° parziale</label>
+                  
+                    <input type="radio" class="btn-check" name="examtype" id="parziale2" value="parziale2" autocomplete="off" disabled>
+                    <label class="btn btn-primary" for="parziale2">2° parziale</label>
+                  
+                    <input type="radio" class="btn-check" name="examtype" id="esame" value="esame" autocomplete="off" checked disabled>
+                    <label class="btn btn-primary" for="esame">Quiz completo</label>
+                </div>
+                
+                <button class="btn btn-success" id="btn-start">Avvia <i class="bi bi-play-fill"></i></button>
+            </div>
+
+            <div class="d-flex justify-content-center align-items-center mx-2" style="gap: 20px;">
+                <span><h3 class="mx-0 my-0" id="timer"></h3></span>
+                <span id="overtime"></span>
+            </div>
+        </div>
+    </nav>
+
+    <main class="d-flex justify-content-between w-100">
+        <div class="w-50 p-3">
+            <h3>Tavola periodica e altri materiali a disposizione</h3>
+            <a href="tavola-periodica.pdf" class="btn btn-secondary" onclick="window.open(this.href, '_blank', 'width=500,height=500'); return false;">Apri separatamente</a>
+            <object data="tavola-periodica.pdf" type="application/pdf" width="100%" height="90%" class="mt-3">
+                <p>Impossibile visualizzare il file. <a href="tavola-periodica.pdf" onclick="window.open(this.href, '_blank', 'width=500,height=500'); return false;">Apri</a></p>
+            </object>
+        </div>
+
+        <div class="w-50 p-3 invisible" style="overflow-y: scroll; height: calc(100vh - 76px);" id="questions">
+            <a id="top"></a>
+            <div id="questions-container"></div>
+
+            <footer class="d-flex justify-content-center py-3 bg-body-tertiary">
+                <button class="btn btn-primary" id="btn-end" data-bs-toggle="modal" data-bs-target="#resultModal">Termina <i class="bi bi-check2"></i></button>
+            </footer>
+        </div>
+    </main>
+
+    <!-- Modal -->
+    <div class="modal fade" id="resultModal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="resultModal" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h1 class="modal-title fs-5">Risultati del quiz</h1>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <p>
+                        Punteggio: <b><span id="points"></span> / <span id="maxpoints"></span></b> <span id="tag-points"></span>
+                        <br>
+                        Tempo impiegato: <b><span id="time"></span> minuti</b> <span id="tag-time"></span>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>  
+
+</body>
+<script src="timer.class.js"></script>
+<script src="script.js"></script>
+</html>
