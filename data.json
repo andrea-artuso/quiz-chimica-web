@@ -4170,14 +4170,14 @@
         "type": "parziale1"
     },
     {
-        "question": "Una mole di ar gon contiene",
+        "question": "Una mole di argon contiene",
         "answers": [
             "a) 40 x Na",
             "b) 40 g",
             "c) un numero di avogadro di atomi di Ar"
         ],
         "correct": "c",
-        "type": "parziale2"
+        "type": "parziale1"
     },
     {
         "question": "Considera dell'acqua che evapora. Quale di queste af fermazioni \u00e8 sicuramente corretta?",
