@@ -75,7 +75,7 @@ function evaluateAnswers(){
         }
     }
 
-    return points
+    return points.toFixed(2)
 }
 
 function start(){
