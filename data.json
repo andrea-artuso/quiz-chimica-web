@@ -8,7 +8,7 @@
             "d) IsoEntropica"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quanto fluoro gassoso deve reagire con idrogeno gassoso per dare esattamente una mole di HF?",
@@ -19,7 +19,7 @@
             "d) Nessuna delle altre"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "La configurazione elettronica: [Ar]3d64s0 rappresenta lo ione:",
@@ -31,7 +31,7 @@
             "e) Cu2+"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Quanti legami covalenti forma Xe per completare l'ottetto?",
@@ -43,7 +43,7 @@
             "e) 4"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Pressione e temperatura in condizioni standard",
@@ -53,7 +53,7 @@
             "c) 1 atm e 25 \u00b0C"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Una mole di cloruro  di litio viene disciolta in 0,500 Kg di acqua. Qual \u00e8 la conc entrazione della soluzione risultante?",
@@ -65,7 +65,7 @@
             "e) 1,5 m"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quali di questi composti \u00e8 un perossido?",
@@ -77,7 +77,7 @@
             "e) BaO2"
         ],
         "correct": "e",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Durante la scarica della pila daniell",
@@ -88,7 +88,7 @@
             "d) L'elettrodo di piombo aumenta la sua massa"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quale tra questi legami \u00e8 il pi\u00f9 forte?",
@@ -99,7 +99,7 @@
             "d) N3"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Il numero Quantico principle n quale valore pu\u00f2 assumere?",
@@ -111,7 +111,7 @@
             "e) +1/2"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Volumi uguali di gas diversi, nelle stesse condizioni di pressione e temperatura, contengono lo stesso numero di molecole. Qual legge sui gas \u00e8?",
@@ -122,7 +122,7 @@
             "d) Boyle"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Gli esteri sono composti risultanti dalla reazione tra un alcolo e un:",
@@ -134,7 +134,7 @@
             "e) calchino"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Composto aromatico",
@@ -144,7 +144,7 @@
             "c) Esene"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Fe (OH)3+ H2SO4\u2192",
@@ -156,7 +156,7 @@
             "e) Fe (SO3)3"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Qual \u00e8 la lettera comunemente usata per indicare l'entropia",
@@ -166,7 +166,7 @@
             "c) E"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Dato il sistema all'equilibrio alla temperatura T (reazione esotermica 2SO2 +O2 \u2192 2SO3 selaTdiminuiscesi osserva che:",
@@ -178,7 +178,7 @@
             "e) L'equilibrio si sposta verso sinistra"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Qual \u00e8 la relazione tra variazione di energia interna \u2206E e l'entalpia \u2206H per la reazione A+B-->C, svolta ad una temperatura di T Kelvin?",
@@ -190,7 +190,7 @@
             "e) \u2206E = \u2206H - R T"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quanti orbitali sono riempiti nell'atomo con configurazione elettronica 1s2 2s2 2p6?",
@@ -202,7 +202,7 @@
             "e) 6"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Quali di questi elementi non \u00e8 contenuto nella pila Daniell",
@@ -212,7 +212,7 @@
             "c) Zn2+"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Cosa misura il calorimetro?",
@@ -222,7 +222,7 @@
             "c) Calore specifico"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "L'ammoniaca \u00e8:",
@@ -234,7 +234,7 @@
             "e) anfotera"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quale di questi fattori non influenza mai il calore totale svolto da una reazione chimica ?",
@@ -246,7 +246,7 @@
             "e) Lo stato fisico di reagenti e prodotti"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quale di queste \u00e8 la corretta configurazione elettronica del titanio?",
@@ -256,7 +256,7 @@
             "c) 1s2 2s2 2p6 3s2 3p6 4s1 3d2"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Data una reazione A + 2B = 3C e data una seconda reazione 1/3 A + 2/3 B = C qual \u00e8 il rapporto tra Kc1 e Kc2?",
@@ -266,7 +266,7 @@
             "c) Kc1=Kc2"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Qual \u00e9 il coef ficiente di V antof f del saccarosio?",
@@ -277,7 +277,7 @@
             "d) infinito"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "CnH2n-2 sono..",
@@ -289,7 +289,7 @@
             "e) nessuna delle precedenti"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Carbonio 14, cos'\u00e8 14?",
@@ -299,7 +299,7 @@
             "c) Numero di moli ogni litro"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Cosa succede facendo passare corrente in una soluzione acquosa di KOH?",
@@ -311,7 +311,7 @@
             "e) nessuna delle precedenti"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Qual \u00e8 il peso atomico del boro-14 (isotopo)",
@@ -322,7 +322,7 @@
             "d) 5"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Qual \u00e8 la quantit\u00e0 di CaCO3 che contiene esattamente 40g di calcio?",
@@ -334,7 +334,7 @@
             "e) Nessuna delle precedenti"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Quante moli di acqua posso ottenere Da una mole di O2 \u00e8 una di H2",
@@ -345,7 +345,7 @@
             "d) 2 moli"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Nomenclatura Fe2O3",
@@ -356,7 +356,7 @@
             "d) Ossido di ferro (II)"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "In quale di questi composti Cl ha numero di ossidazione +3?",
@@ -368,7 +368,7 @@
             "e) NaClO2"
         ],
         "correct": "e",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Considera il seguente equilibrio: 2HI (g) -> H2(g) + I2(g) . Cosa accade se si aumenta la pressione parziale di HI ?",
@@ -380,7 +380,7 @@
             "e) Aumenta la velocit\u00e0 di reazione"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Qual \u00e8 il numero massimo che pu\u00f2 assumere il numero quantico secondario l nell'attuale tavola periodica",
@@ -391,7 +391,7 @@
             "d) 6"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Quale dei seguenti cambiamenti sull'eq uilibrio: 4NH3(G) + 3O2(G) --> 2N2(G) + 6H20(G) + calore prova un aumento della concentrazione di NH3?",
@@ -403,7 +403,7 @@
             "e) Abbassamento della T"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Qual \u00e8 il nome IUP AC dell'acetilene",
@@ -414,7 +414,7 @@
             "d) Etino"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quale tra questi \u00e8 il miglior riducente",
@@ -424,7 +424,7 @@
             "c) Pb (s)"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Qual \u00e8 l\u2019allotropo pi\u00f9 stabile del carbonio a temperatura e pressione standard?",
@@ -436,7 +436,7 @@
             "e) Carbonio amorfo"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "La combustione di 2 moli di metano quante moli di prodotti produce?",
@@ -447,7 +447,7 @@
             "d) 10"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "In una cella \u00e8 immerso una lastra di rame in una soluzione di ioni zinco. Cosa succede?",
@@ -459,7 +459,7 @@
             "e) Rame e zinco reagiscono a formare una lega di ar gento"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "44,8 L \u00e8 il volume occupato da:",
@@ -471,7 +471,7 @@
             "e) Due moli di qualsiasi gas ideale a 100C ed 1,00 atm"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Da cosa NON dipende l'ener gia di legame?",
@@ -483,7 +483,7 @@
             "e) elettronegativit\u00e0"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Un elemento del sesto periodo nel suo stato fondamentale quale valore massimo di m pu\u00f2 assumere?",
@@ -495,7 +495,7 @@
             "e) 3"
         ],
         "correct": "e",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Quanti isomeri ha C4H10?",
@@ -507,7 +507,7 @@
             "e) C4H10 non esiste"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quale tra questi ha legami covalenti",
@@ -517,7 +517,7 @@
             "c) NaO"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Ordinare in ordine decrescente di forza di legame i seguenti composti",
@@ -528,7 +528,7 @@
             "d) HCl, HF , HBr , HI"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Come si chiama il passaggio di stato da solido a gas?",
@@ -539,7 +539,7 @@
             "d) Non ha un nome"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Quale tra questi non si pu\u00f2 ottenere per ossidazione dell'etanolo?",
@@ -550,7 +550,7 @@
             "d) tutte le risposte sono valide"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Qual \u00e8 la formula bruta del 2-propanolo?",
@@ -561,7 +561,7 @@
             "d) C3H6O"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quale tra questi elementi ha raggio atomico minore?",
@@ -573,7 +573,7 @@
             "e) Pb"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Indicare quale delle seguenti configurazioni elettroniche ha ener gia di prima ionizzazione pi\u00f9 alta",
@@ -585,7 +585,7 @@
             "e) 1s2 2s2 2p6 3s2"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Qual \u00e8 un ossido basico",
@@ -597,7 +597,7 @@
             "e) HNO3"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Quale di queste propriet\u00e0 \u00e8 attribuibile al Benzene?",
@@ -609,7 +609,7 @@
             "e) La molecola di benzene \u00e8 planare"
         ],
         "correct": "e",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Qual \u00e8 la formula bruta del 2-propanolo (o propan-2-olo)?",
@@ -621,7 +621,7 @@
             "e)"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quale di questi \u00e8 un acido pi\u00f9 forte?",
@@ -633,7 +633,7 @@
             "e) H2SO3"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "La frazione volumetrica di ossigeno in una miscela gassosa \u00e8 0,2. Qual \u00e8 il volume di miscela che contiene 40L di ossigeno?",
@@ -645,7 +645,7 @@
             "e) 8 L"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Cosa accade quando si fonde un solido",
@@ -656,7 +656,7 @@
             "d) la temperatura aumenta"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Una sostanza \u00e8 riducente rispetto ad un'altra se:",
@@ -668,7 +668,7 @@
             "e) Si riduce pi\u00f9 facilmente"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Qual \u00e8 il numero di molecole presente in una mole di NaCl?",
@@ -680,7 +680,7 @@
             "e) 1"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Indicare da sinistra a destra i numeri di ossidazione del cloro nei seguenti ioni: ClO4- , anione clorato, ClO2- , ClO-",
@@ -692,7 +692,7 @@
             "e) +3, +5, +7, +1"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Quale tra queste \u00e8 una miscela omogenea",
@@ -704,7 +704,7 @@
             "e) bronzo"
         ],
         "correct": "e",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "In una cella voltaica si immettono Li (con E0 = -3V) e Be (E0 = -2V). A quanto \u00e8 pari la differenza di tensione ai capi?",
@@ -714,7 +714,7 @@
             "c) +5 V"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Per far si che una reazione sia spontanea a basse temperature",
@@ -726,7 +726,7 @@
             "e) DeltaH > 0 delta S<0"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Sia un atomo Z=9, A=19 , scrivere nell' ordine il numero di elettroni, neutroni, elettroni spaiati",
@@ -738,7 +738,7 @@
             "e) 9, 10, 0"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Se si miscelano una soluzione contenente 1g di HNO3 (MM = 63) ed una contenente 1g di NaOH (mm = 40), la soluzione risulta:",
@@ -750,7 +750,7 @@
             "e) molto neutra"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quale tra queste unit\u00e0 di misura non si riferisce alla pressione?",
@@ -762,7 +762,7 @@
             "e) Bar"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Quale tra queste \u00e8 una semireazione di riduzione?",
@@ -772,7 +772,7 @@
             "c) H2 --> 2H+ + \u00e8-"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Qual \u00e8 la pressione osmotica di una soluzione di NaCl di volume 2l, 1 M a una temperatura T?",
@@ -783,7 +783,7 @@
             "d) p=2*0.831*T"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Per quali di questi valori un processo non \u00e8 MAI spontaneo?",
@@ -795,7 +795,7 @@
             "e) \u0394H<0 \u0394S<0"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Bilanciare la seguente reazione e selezionare nella giusta sequenza i coefficienti stecchiometrici dei reagenti solfato di rame(||) +Fe(NO3)3____________] solfato di ferro(|||) +Cu(NO3)2",
@@ -807,7 +807,7 @@
             "e) 2,2"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Coef ficienti reagenti C6H6+O2 -> CO2+H2O",
@@ -819,7 +819,7 @@
             "e) 1;7"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "La teoria di ___ dice che \"gli acidi in acqua rilasciano ioni H+\"",
@@ -830,7 +830,7 @@
             "d) Lewis"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Da cosa \u00e8 data la molalit\u00e0",
@@ -841,7 +841,7 @@
             "d) volume del soluto diviso volume del solvente"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Durante l'evaporazione dell acqua cosa accade sicuramente?",
@@ -853,7 +853,7 @@
             "e) nessuna delle risposte \u00e8 corretta"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Viene data un'immagine con una molecola con diversi tipi di legame, ogni legame \u00e8 numerato. Si chiede di trovare il legame pi\u00f9 forte",
@@ -863,7 +863,7 @@
             "c) triplo"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Cos'\u00e8 un idruro?",
@@ -874,7 +874,7 @@
             "d) Un acido"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Dati 500m L di azoto alla pressione di 0.75atm, quale sar\u00e0 il volume alla pressione di 1.50atm, assumendo che la temperatura rimanga costante?",
@@ -886,7 +886,7 @@
             "e) 500 mL"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Quale dei seguenti sistemi NON \u00e8 eterogeneo?",
@@ -898,7 +898,7 @@
             "e) soluzione"
         ],
         "correct": "e",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Una mole di Li2O contiene",
@@ -910,7 +910,7 @@
             "e) 14 grammi di ossigeno"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Quale tra queste famiglie di composti ha la formula bruta: CnH(2n+2)",
@@ -922,7 +922,7 @@
             "e) Acidi carbossilici"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Cosa si intende per gruppo alchilico?",
@@ -932,7 +932,7 @@
             "c) un alcolo privato di un atomo di idrogeno"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Qual \u00e8 il nome del composto ?",
@@ -944,7 +944,7 @@
             "e) Acido cloroso"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Quale di questi elementi possiede ener gia di prima ionizzazione pi\u00f9 bassa?",
@@ -956,7 +956,7 @@
             "e) Sodio"
         ],
         "correct": "e",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Un gas occupa 500mL a 0,75 atm, quanto occupa a 1.5 atm a T costante",
@@ -968,7 +968,7 @@
             "e) 2 dm\u00b3"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Quale dei seguenti ossidi reagisce con l'acqua per formare un idrossido?",
@@ -980,7 +980,7 @@
             "e) nessuna delle altre risposte \u00e8 corretta"
         ],
         "correct": "e",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Quale delle seguenti molecole presenta un'isomeria cis e trans?",
@@ -992,7 +992,7 @@
             "e) 2-metil-3-propil-esene"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quale tra queste \u00e8 la formula di struttura del glicerolo (detto anche glicerina)",
@@ -1002,7 +1002,7 @@
             "c) C3H8"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quale di questi elementi ha maggior ener gia di prima ionizzazione?",
@@ -1014,7 +1014,7 @@
             "e) Fe"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Il perclorato di sodio si pu\u00f2 ottenere facendo reagire",
@@ -1026,7 +1026,7 @@
             "e) H2O2 + HCLO4"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Una soluz ione di un miscuglio miscuglio ha coefficiente di Van't Hoff uguale a 3. Considerando che viene dissociato completamente, quanto vale z?",
@@ -1037,7 +1037,7 @@
             "d) Dipende dalla concentrazione"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Date due mezze reazioni con relative entalpie, come si calcola l'entalpia della reazione totale?",
@@ -1048,7 +1048,7 @@
             "d) moltiplicando le entalpie"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Da cosa dipende l'abbassamento del vapore di pressione?",
@@ -1060,7 +1060,7 @@
             "e) frazione molare"
         ],
         "correct": "e",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quanti protoni sono contenuti in una mole di idrogeno molecolare? (Na sta per 6.022*10^(23) )",
@@ -1072,7 +1072,7 @@
             "e) 1*6.022"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "A pressione costante, se si aumenta il volume del 50% come varia la temperatura (inizialmente 100 K)?",
@@ -1083,7 +1083,7 @@
             "d) 150 K"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "In una reazione isoterma, il prodotto tra volume e pressione",
@@ -1094,7 +1094,7 @@
             "d) Nessuna delle precedenti esprime completamente la risposta"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Ho 0.8 moli di soluto disciolte in 1.2 moli di solvente. Qual \u00e8 la frazione molare del soluto",
@@ -1104,7 +1104,7 @@
             "c) 0.4/(1.2+0.8)"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quale tipo di struttura presenza l'ammoniaca ?",
@@ -1115,7 +1115,7 @@
             "d) piramide trigonale"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "H2S \u00e8 un",
@@ -1125,7 +1125,7 @@
             "c) Sale"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Selezionare la soluzione acquosa con pressione osmotica pi\u00f9 alta",
@@ -1137,7 +1137,7 @@
             "e) 0,1 M HNO3"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Dove avviene la riduzione in una cella galvanica?",
@@ -1149,7 +1149,7 @@
             "e) ovunque"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "A 1000K qual \u00e8 la relazione fra Kc e Kp, se DeltaN = 1?",
@@ -1160,7 +1160,7 @@
             "d) Kp = Kc"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Come si chiama questa molecola or ganica? Immagine di C2H4 (doppio legame tra i due C)",
@@ -1171,7 +1171,7 @@
             "d) Dietano"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "1 mole di acqua contiene:",
@@ -1182,7 +1182,7 @@
             "d) 2*Na atomi di idrogeno"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Quante molecole sono contenute in 14 moli di H2S",
@@ -1194,7 +1194,7 @@
             "e) 14 *numero di avogadro"
         ],
         "correct": "e",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Quanto ossigeno gassoso serve per ossidare 46g di sodio?",
@@ -1206,7 +1206,7 @@
             "e) 23 grammi"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Quale composto si ottiene della reazione di acido carbonico con idrossido di magnesio?",
@@ -1218,7 +1218,7 @@
             "e) MgCO"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Qual \u00e8 la quantit\u00e0 di zolfo atomico necessario alla formazione di 64 g di SO2",
@@ -1230,7 +1230,7 @@
             "e) 48 g"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Per prevedere il grado di polarit\u00e0 di una molecola \u00e8 necessario conoscere:",
@@ -1242,7 +1242,7 @@
             "e) La sua formula di struttura"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "La riduzione \u00e8 un fenomeno nel quale:",
@@ -1253,7 +1253,7 @@
             "d) Un elemento aumenta il suo n.o. e perde elettroni"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Una soluzione \u00e8 acida se",
@@ -1265,7 +1265,7 @@
             "e) [OH-] > 10^-7"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Qual \u00e8 la configurazione elettronica del Cobalto?",
@@ -1277,7 +1277,7 @@
             "e) [Kr] 3 d7 4 s2"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "A quale gruppo appartiene RCOOR\u2019",
@@ -1287,7 +1287,7 @@
             "c) Eteri"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quali di queste molecole \u00e8 apolare?",
@@ -1299,7 +1299,7 @@
             "e) NO"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Temperatura dell\u2019acqua al suo punto triplo",
@@ -1310,7 +1310,7 @@
             "d) 100 \u00b0C"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quale di questi composti liquidi pu\u00f2 formare un legame a idrogeno?",
@@ -1322,7 +1322,7 @@
             "e) PO3"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Nella reazione : A+2B-> C, vengono fatti reagire 1 kg di A e 1 kg di B. Qual \u00e8 il reagente limitante? [non ricordo tutte le risposte possibili]",
@@ -1333,7 +1333,7 @@
             "d) Dipende dalle masse molari di A e di B"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "In un contenitore non deformabile c\u2019\u00e8 un gas, se aumento la temperatura cosa succede",
@@ -1344,7 +1344,7 @@
             "d) nessuna delle precedenti \u00e8 corretta"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Qual \u00e8 il volumedi un kg di ghiaccio liquido a 4\u00b0C?",
@@ -1356,7 +1356,7 @@
             "e) non esiste un cubo di ghiaccio liquido a quella temperatura"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "In una reazione si ha \u0394H = 2000 kJ e \u0394S = 20 kJ/K. Come deve essere la temperatura affinch\u00e9 la reazione sia spontanea?",
@@ -1367,7 +1367,7 @@
             "d) Per qualsiasi temperatura"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quale di questi composti pu\u00f2 formare un legame idrogeno allo stato liquido?",
@@ -1379,7 +1379,7 @@
             "e) nessuna delle precedenti"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "PCl5 = PCl2+Cl3 \u00e8 all'equilibrio. Cosa avviene se la pressione diminuisce?",
@@ -1391,7 +1391,7 @@
             "e) Nessuna delle precedenti"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quante molecole ci sono in 0.5 moli di CO2",
@@ -1403,7 +1403,7 @@
             "e) 1.5*Na"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Quale tra questi fattori non influisce sulla forza di legame:",
@@ -1415,7 +1415,7 @@
             "e) Lunghezza di legame"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Nella molecola della CO2 sono coinvolti in totale:",
@@ -1426,7 +1426,7 @@
             "d) un legame pigreco delocalizzato e due sigma"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Che tipo di ibridazione \u00e8 presente nell'atomo centrale di C quando forma il metano?",
@@ -1438,7 +1438,7 @@
             "e) Nessuna di queste"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Quale sostanza \u00e8 pi\u00f9 miscibile in acqua ??",
@@ -1450,7 +1450,7 @@
             "e) etino"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "La legge di Hess",
@@ -1461,7 +1461,7 @@
             "d) Permette di calcolare i valori dei potenziali elettrici"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quale valore tra questi pu\u00f2 assumere il numero quantico n di un elettrone",
@@ -1473,7 +1473,7 @@
             "e) h"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "La costante crioscopica...",
@@ -1485,7 +1485,7 @@
             "e) \u00c8 sempre in kj"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quale sostanza contiene un gruppo Metile:",
@@ -1497,7 +1497,7 @@
             "e) Toluene"
         ],
         "correct": "e",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Il dibromobenzene quante isomerie strutturali ha?",
@@ -1509,7 +1509,7 @@
             "e) 5"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Il catalizzatore in una reazione:",
@@ -1519,7 +1519,7 @@
             "c) diminuisce l'entalpia"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "1 mole di alluminio corrisponde",
@@ -1530,7 +1530,7 @@
             "d) 6,022*10^22 molecole"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Qual \u00e8 il gruppo funzionale dei chetoni?",
@@ -1541,7 +1541,7 @@
             "d) -COOH"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Indicare la sequenza corretta per la temperatura di ebollizione alla pressione di 1 atmosfera per la serie di composti HX (X = F ,Cl,Br ,I)",
@@ -1553,7 +1553,7 @@
             "e) HCl < HI < HBr < HF"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Un gas ideale occup a un volume di 4,5 L a 300K. Considerando P costante, a quale T il gas occupa un volume di 9,0 L?",
@@ -1565,7 +1565,7 @@
             "e) 300K"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Quale delle sequenze indicate riporta  correttamente formula del composto, tipo di ibridazione, geometria molecolare e polarit\u00e0",
@@ -1577,7 +1577,7 @@
             "e) SO2/sp2/triangolare/polare"
         ],
         "correct": "e",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Bilanciare la seguente reazione e scriver e i coefficienti stechiometrici dei reagenti: Fe(OH)2 + K2CrO4 + H2O --> Fe(OH)3 + KCr(OH)4 + KOH",
@@ -1589,7 +1589,7 @@
             "e) 1 1 4"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Nella molecola dell'acido nitrico l\u2019azoto presenta :",
@@ -1601,7 +1601,7 @@
             "e) tre legami semplici"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Rispetto a un sale ben definito. una base \u00e8 un entita che:",
@@ -1613,7 +1613,7 @@
             "e) dona un elettrone"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Come si chiama il rapporto tra le moli dissociate e le moli totali?",
@@ -1623,7 +1623,7 @@
             "c) grado di solubilit\u00e0"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Cosa avviene all'anodo di Zn + HgO -> ZnO + Hg",
@@ -1635,7 +1635,7 @@
             "e) Non succede niente, la reazione non produce corrente perch\u00e8 non \u00e8 spontanea"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Qual \u00e8 la geometria della molecola di CO2",
@@ -1647,7 +1647,7 @@
             "e) Piramidale"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Quale dei seguenti processi \u00e8 usato per rimuovere gli ioni dall'acqua tramite una membrana semipermeabile?",
@@ -1658,7 +1658,7 @@
             "d) filtrazione"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Qual \u00e8 il legame pi\u00f9 forte?",
@@ -1670,7 +1670,7 @@
             "e) C-O"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Quale delle seguenti molecole non \u00e8 polare?",
@@ -1680,7 +1680,7 @@
             "c) H2O"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Quale di queste af fermazioni sul metanolo \u00e8 corretta?",
@@ -1690,7 +1690,7 @@
             "c) \u00c8 un estere"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Bilancia la reazione idrogeno + azoto = ammoniaca. Indica i coef ficienti stechiometrici dei reagenti.",
@@ -1701,7 +1701,7 @@
             "d) 6-7"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Cosa influenza il coef ficiente di van't Hof f?",
@@ -1713,7 +1713,7 @@
             "e) Temperatura"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Se ho un contenitore indeformabile con all'interno gas ideale alla pressione di 1 atm a 1 \u00b0C. Se la pressione viene portata a 2 atm quanto vale la temperatura?",
@@ -1724,7 +1724,7 @@
             "d) Nessuna della altre"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Cosa succede quando si diluisce una soluzione?",
@@ -1735,7 +1735,7 @@
             "d) il prodotto tra moli di soluto e di solvente rimane costante"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quale delle molecole seguenti \u00e8 polare",
@@ -1747,7 +1747,7 @@
             "e) SF6"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Una soluzione ha pH = 6. La concentrazione di ioni H3O+ vale:",
@@ -1759,7 +1759,7 @@
             "e) 6^(10)"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quali tra questi fattori non influenza la velocit\u00e0 di una reazione?",
@@ -1771,7 +1771,7 @@
             "e) Nessuna delle precedenti"
         ],
         "correct": "e",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Per formare 34g di H2O2, qual \u00e8 la quantit\u00e0 minima di ossigeno necessaria?",
@@ -1783,7 +1783,7 @@
             "e) 16g"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "A cosa si rifersicono le condizioni standard di una cella elettrochimica",
@@ -1794,7 +1794,7 @@
             "d) 1 M, 298 K"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Una reazione \u00e8 endotermica se",
@@ -1806,7 +1806,7 @@
             "e) DG=0"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Dato il potenziale standard del Rubidio  E\u00b0=-3V e del Berillio E\u00b0=-2V , calcolare il potenziale standard di reazione",
@@ -1818,7 +1818,7 @@
             "e) 4"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Il numero quantico secondario pu\u00f2 essere associato a quale delle seguenti caratteristiche del moto dell'elettrone?",
@@ -1830,7 +1830,7 @@
             "e) La forma dell'orbitale"
         ],
         "correct": "e",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Perch\u00e9 l'idrogeno ha potenziale di riduzione standard uguale a 0?",
@@ -1841,7 +1841,7 @@
             "d) \u00e8 il pi\u00f9 forte ossidante"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Qual \u00e8 la formula di struttura del fluoro gassoso?",
@@ -1853,7 +1853,7 @@
             "e) F-F-F"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Cos'\u00e8 C6H12?",
@@ -1865,7 +1865,7 @@
             "e) aromatico"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Una soluzione acquosa di ammoniaca presenta un pH=12. Se la diluisco con un egual volume di acqua il pH:",
@@ -1877,7 +1877,7 @@
             "e) aumenta di poco"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quanti neutroni ci sono nel deuterio?",
@@ -1889,7 +1889,7 @@
             "e) Dipende dall'isotopo"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Come si chiamano le forze intermolecolari dipolo istantaneo-dipolo indotto",
@@ -1900,7 +1900,7 @@
             "d) Forze di T okyo"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Qual \u00e8 il massimo valore del numero quantico n?",
@@ -1912,7 +1912,7 @@
             "e) 1"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Quale di questi composti contiene legami ionici?",
@@ -1924,7 +1924,7 @@
             "e) H2O"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "In un contenitore isolato ci sono due bicchieri identici. Uno contiene 100ml di acqua pura e l'altro contiene 100ml di acqua e zucchero. All'equilibrio quale bicchiere avr\u00e0 il massimo del liquido",
@@ -1934,7 +1934,7 @@
             "c) Sono uguali"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Unit\u00e0 di misura dell'entropia?",
@@ -1946,7 +1946,7 @@
             "e) Non ha unit\u00e0 di misura"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Il nome del seguente composto: HIO4",
@@ -1958,7 +1958,7 @@
             "e) Anidride ionica"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Due bomb ole sigilla te di gas hanno volume V=1. Una \u00e8 riempita di idrogeno, l'altra di azoto. Cosa si pu\u00f2 dire?",
@@ -1968,7 +1968,7 @@
             "c) hanno densit\u00e0 dif ferenti"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Selezionare simbolo convenzionamente usato per l'entropia",
@@ -1980,7 +1980,7 @@
             "e) omega"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Nome del CuO",
@@ -1991,7 +1991,7 @@
             "d) ossido di rame(I)"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Quale elemento ha raggio atomico minore",
@@ -2003,7 +2003,7 @@
             "e) N"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "L'acqua comincia a bollire quando...",
@@ -2014,7 +2014,7 @@
             "d) quando alcune particelle cominciano a evaporare"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Nomenclatura tradizionale di: NaOH",
@@ -2026,7 +2026,7 @@
             "e) Idruro ossigenato di sodio"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Cosa NON influenza la velocit\u00e0 di reazione?",
@@ -2037,7 +2037,7 @@
             "d) Temperatura"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Seleziona il processo endotermico:",
@@ -2049,7 +2049,7 @@
             "e) Fusione dello zinco solido"
         ],
         "correct": "e",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Bilancia la seguente reazione e scegli la corretta sequenza dei coefficienti solo per i prodotti. Acido fosforico + Na2O -> Na3PO4 + H2O",
@@ -2061,7 +2061,7 @@
             "e) 2, 2"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "2 molecole di Idrog eno e 2 molecole di Ossigeno sono in un reattore. Quante molecole ci sono a fine reazione di formazione dell'acqua nel reattore?",
@@ -2073,7 +2073,7 @@
             "e) 0"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Quale tra le seguenti sostanze \u00e8 la pi\u00f9 solubile in acqua?",
@@ -2085,7 +2085,7 @@
             "e) Etino"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "La riduzione nella cella voltaica avviene:",
@@ -2097,7 +2097,7 @@
             "e) non si hanno dati suf ficienti per saperlo"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quale dei seguenti ioni \u00e8 isoelettronico con l'Ar gon?",
@@ -2109,7 +2109,7 @@
             "e) Al3+"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quante molecole di prodotti vengono generate dalla combustione di 2 molecole di metano con l'ossigeno?",
@@ -2119,7 +2119,7 @@
             "c) 6"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Qual \u00e8 la corretta notazione della cella della pila di Daniell?",
@@ -2131,7 +2131,7 @@
             "e) Cu | Cu2+ || Zn2+ | Zn"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Which molecule has the highest dissociation ener gy?",
@@ -2143,7 +2143,7 @@
             "e) Br2"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Il DEL TA H di una reazione esotermica \u00e8",
@@ -2155,7 +2155,7 @@
             "e) DeltaH < T DeltaS"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "In quale delle seguenti condizioni la reazione non pu\u00f2 essere spontanea?",
@@ -2167,7 +2167,7 @@
             "e) DeltaH > 0 DeltaS < 0"
         ],
         "correct": "e",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Selezionare la configurazione elettronica dello ione solfuro.",
@@ -2179,7 +2179,7 @@
             "e) 1s2 2s2 2p6 3p4"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Quale composto reagisce con HCl e porta alla formazione di clorobutano?",
@@ -2191,7 +2191,7 @@
             "e) Butanolo"
         ],
         "correct": "e",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Con quale strumento si misura il caos di un sistema?",
@@ -2201,7 +2201,7 @@
             "c) Barometro"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quale di queste \u00e8 una molecola",
@@ -2213,7 +2213,7 @@
             "e) Ferro fuso"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Cos'\u00e8 un gruppo alchilico",
@@ -2223,7 +2223,7 @@
             "c) Un alchino con un H in meno"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Qual \u00e8 il massimo valore che il numero quantico secondario l pu\u00f2 assumere nell'attuale tavola periodica",
@@ -2235,7 +2235,7 @@
             "e) 3"
         ],
         "correct": "e",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Da quale delle seguenti miscele si sviluppa idrogeno?",
@@ -2247,7 +2247,7 @@
             "e) Zn + HCl"
         ],
         "correct": "e",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Quale delle seguenti terne di elementi \u00e8 costituita da un metallo seguito da un metallo di transizione e da un non metallo ?",
@@ -2259,7 +2259,7 @@
             "e) Be, V , S"
         ],
         "correct": "e",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Cosa rappresenta il simbolo || nella notazione convenzionale di una cella galvanica?",
@@ -2269,7 +2269,7 @@
             "c) ponte salino"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Qual \u00e8 il simbolo dell'azoto?",
@@ -2281,7 +2281,7 @@
             "e) Az"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Una reazione esotermica con 5 moli di gas nei reagenti e 4 moli nei prodotti, quale cambiamento induce un aumento della concetrazione di prodotti?",
@@ -2293,7 +2293,7 @@
             "e) Aggiunta prodotti"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Indicare la configurazione elettronica dello ione litio:",
@@ -2305,7 +2305,7 @@
             "e) [He]2s1"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Selezionare l'af fermazione corretta riguardante il metanolo",
@@ -2317,7 +2317,7 @@
             "e) \u00e8 un composto aromatico"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Indicare quale tra questi \u00e8 il nome di Na3PO4",
@@ -2328,7 +2328,7 @@
             "d) fosfato di sodio"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Numero minimo di atomi di carbonio per avere una isomeria di struttura?",
@@ -2339,7 +2339,7 @@
             "d) 4"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Come si chiama il passagio dallo stato solido allo stato vapore?",
@@ -2351,7 +2351,7 @@
             "e) condensazione"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Selezionare la sostanza meno solubile nel Benzene",
@@ -2363,7 +2363,7 @@
             "e) Esano"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quale delle seguenti af fermazioni riguardo al diamante \u00e8 falsa:",
@@ -2375,7 +2375,7 @@
             "e) il carbonio non \u00e8 ibiridizzato"
         ],
         "correct": "e",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quale principio della termodinamica mette in evidenza l'irreversibilit\u00e0 delle reazioni chimiche?",
@@ -2387,7 +2387,7 @@
             "e) principio di Le Chatelier"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quale \u00e8 una propiet\u00e0 dei metalli alcalini?",
@@ -2398,7 +2398,7 @@
             "d) La loro ener gia di prima ionizazzione diminuisce all'aumentare del peso atomico"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Il numero di massa \u00e8",
@@ -2410,7 +2410,7 @@
             "e) Differenza protoni e neutroni"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Quanti litri occupano 16 g di ossigeno a 0 \u00b0C e 1 atm",
@@ -2421,7 +2421,7 @@
             "d) 24,2"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Nella seguente reazione qual \u00e8 l'acido (secondo Bronsted-Lowry) ? NH4+ + H2O \u2192 NH3(aq) + H3O+",
@@ -2433,7 +2433,7 @@
             "e) H2O"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "A quale categoria appartiene C6H12?",
@@ -2444,7 +2444,7 @@
             "d) Cicloalcani"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quale tra i seguenti composti presenta solo legami covalenti?",
@@ -2456,7 +2456,7 @@
             "e) HCl"
         ],
         "correct": "e",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Una mole di azoto gassoso e una mole di ossigeno gassoso hanno la stessa temperatura. Riguardo alle velocit\u00e0 medie delle loro molecole si pu\u00f2 dire che:",
@@ -2468,7 +2468,7 @@
             "e) Nessuna delle altre risposte"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Quale delle seguenti molecole \u00e8 apolare?",
@@ -2479,7 +2479,7 @@
             "d) HCN"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Se, alle medesime condizioni, il fluido A ha una pressione di vapore maggiore del fluido B allora:",
@@ -2491,7 +2491,7 @@
             "e) A \u00e8 pi\u00f9 viscoso di B"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "A cosa corrispondono tali composti H2SO4 / Na2SO3",
@@ -2503,7 +2503,7 @@
             "e) acido solforoso / solfato di sodio"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Qual \u00e8 il nome IUP AC di CO?",
@@ -2513,7 +2513,7 @@
             "c) Monossido di carbonio"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Una reazione \u00e8 sempre spontanea se:",
@@ -2525,7 +2525,7 @@
             "e) \u0394H > T\u0394S"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quale dei seguenti non pu\u00f2 assumere la configurazione elettronica 1s2 2s2 2p6?",
@@ -2535,7 +2535,7 @@
             "c) Gas nobili"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Cos \u00e8 CH3CH2CH2CH2OH?",
@@ -2547,7 +2547,7 @@
             "e) alcol butanico"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "In un serbatoio ci sono 8 Moli di idrogen o pi\u00f9 6 molli di Ossigen formano acqua , a fine reazione quanto i reagenti sono completamente esauriti cosa resta nel serbatoio?",
@@ -2558,7 +2558,7 @@
             "d) Acqua e ossigeno"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Quali delle seguenti af fermazioni \u00e8 corretta all'equilibrio di una soluzione?",
@@ -2568,7 +2568,7 @@
             "c) la reazione si interrompe"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Data la reazione: 2A(gas) + B(gas) <--> 3C(gas). All'equilibrio si sviluppano 3 moli di A, 2 moli di B e una mole di C e la pressione della reazione \u00e8 di 2 atm. Calcolare il Kp",
@@ -2579,7 +2579,7 @@
             "d) Non ci sono abbastanza informazioni per dare la risposta"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quale di queste strutture cristalline presenta fattore di impacchettamento maggiore?",
@@ -2589,7 +2589,7 @@
             "c) Le strutture sono tutte equivalenti"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Perch\u00e9 il potenziale standard di riduzione dell' idrogeno (Elettrodo standard a idrogeno - SHE) \u00e8 zero?",
@@ -2599,7 +2599,7 @@
             "c) Non genera tensione in ogni caso"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quali delle seguenti molecole \u00e8 un perossido",
@@ -2610,7 +2610,7 @@
             "d) Cl2O7"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Quale composto non segue la regola dell'ottetto di Lewis (non le ricordo tutte)",
@@ -2620,7 +2620,7 @@
             "c) NH3"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Cosa succede quando l'acqua bolle?",
@@ -2632,7 +2632,7 @@
             "e) Nessuna delle precedenti corretta"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Cosa hanno in comune il bezene e l'etene?",
@@ -2642,7 +2642,7 @@
             "c) si ossidano facilmente"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Cosa non pu\u00f2 essere un elemento con configurazione elettronica 1 s2 2 s2 2p6",
@@ -2654,7 +2654,7 @@
             "e) Un anione"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Selezionare il processo esotermico",
@@ -2666,7 +2666,7 @@
             "e) Nessuno di questi"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quale di queste \u00e8 un ammina terziaria?",
@@ -2678,7 +2678,7 @@
             "e) Un gruppo funzionale delle ammine con triplo legame"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "A cosa corrisponde una mole di Ar gon?",
@@ -2689,7 +2689,7 @@
             "d) 6.022 x 10^23 g"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Formula del Fenolo",
@@ -2699,7 +2699,7 @@
             "c) CH3OH"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quanti litri di acqua bisogna aggiungere a 500 ml di una soluzione 2M per passare a 1M",
@@ -2711,7 +2711,7 @@
             "e) 4"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quale di queste non \u00e8 un'ener gia?",
@@ -2723,7 +2723,7 @@
             "e) Nessuna delle precedenti"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Selezionare la quantita esattamente contenuta in 1 mole di CO",
@@ -2735,7 +2735,7 @@
             "e) un numero di avogadro di molecole di ossigeno"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Come si chiama questo composto? H2-C=O",
@@ -2745,7 +2745,7 @@
             "c) diidrogeno aldeide"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Un catalizzatore \u00e8 una sostanza che aggiunta a una reazione ne modifica",
@@ -2757,7 +2757,7 @@
             "e) l'ener gia dei reagenti"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "In quale classe di composti ossigenati non \u00e8 presente il gruppo C=O:",
@@ -2769,7 +2769,7 @@
             "e) chetoni"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quale tra questi non \u00e8 un ibrido di risonanza",
@@ -2781,7 +2781,7 @@
             "e) O3"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Bilanciare la seguente reazione: S(2) + ossigeno molecolare ---> SO(3)",
@@ -2793,7 +2793,7 @@
             "e) 1:3"
         ],
         "correct": "e",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "In una reazione di scarica di una batteria in piombo quale elemento si ossida? (veniva data la reazione)",
@@ -2803,7 +2803,7 @@
             "c) nessuno"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Una mole di ferro contiene",
@@ -2815,7 +2815,7 @@
             "e) Na particelle di ferro"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Quanto vale la frazione molare dell' acqua in una soluzione con 1,2 moli di etanolo e 0,8 moli di acqua?",
@@ -2825,7 +2825,7 @@
             "c) 1"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Come faccio per abbassare la temperatura di congelamento di un composto saturo di KCl?",
@@ -2836,7 +2836,7 @@
             "d) aggiungo acqua"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "La P parziale di un gas di un miscuglio dipende da",
@@ -2846,7 +2846,7 @@
             "c) Frazione molare"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "L'aggettivo appropriato ad un reazione con entalpia positiva \u00e8:",
@@ -2857,7 +2857,7 @@
             "d) Endotermica"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Cosa indica il punto di massima ener gia del seguente grafico (grafico coordinata di reazione-ener gia)",
@@ -2869,7 +2869,7 @@
             "e) punti di fusione"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quanti elettroni possono occupare contemporaneamente lo stesso orbitale?",
@@ -2881,7 +2881,7 @@
             "e) 6"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Di quale categoria di composti \u00e8 tipico il gruppo -O-O- ?",
@@ -2891,7 +2891,7 @@
             "c) Esteri"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "In un diagramma pressione volume a temperatura costante l'andamento delle curve \u00e8",
@@ -2903,7 +2903,7 @@
             "e) Lineare"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Quale di questi \u00e8 isomero dell'etanolo?",
@@ -2914,7 +2914,7 @@
             "d) esanolo"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Reazione di elettrolisi dell'acqua.",
@@ -2924,7 +2924,7 @@
             "c) 2H2O -> H3O+ + OH-"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quale di questi \u00e8 il simbolo comunemente usato per l'entropia?",
@@ -2936,7 +2936,7 @@
             "e) G"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Qual \u00e8 il processo che provoca il movimento di solvente dalla soluzione meno concentrata a quella piu concentrata?",
@@ -2948,7 +2948,7 @@
             "e) osmosi inversa"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Secondo la struttura di Lewis, quanti elettroni di valenza ha l'azoto nel suo stato fondamentale?",
@@ -2960,7 +2960,7 @@
             "e) 10"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "La configurazione elettronica [Kr] 4d10 5s0 appartiene a:",
@@ -2972,7 +2972,7 @@
             "e) Cadmio"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Qual \u00e8 il coef ficiente di van't hof f dello zucchero in soluzione acquosa",
@@ -2984,7 +2984,7 @@
             "e) 4"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Qual \u00e8 la reazione completa dell\u2019elettrolisi dell\u2019acqua",
@@ -2994,7 +2994,7 @@
             "c) 2H2O= 2H2 +O2"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Una barretta di Rame \u00e8 immersa in una soluzione di ioni Zinco. Tenendo conto dei potenziali di riduzione standard, accade che:",
@@ -3006,7 +3006,7 @@
             "e) non succede nulla"
         ],
         "correct": "e",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Un gas viene espanso (a T costante) da V1 (con P1) ad un volume doppio, quanto vale la P?",
@@ -3017,7 +3017,7 @@
             "d) P2=P1/4"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Qual \u00e8 la corretta definizione di sale acido?",
@@ -3027,7 +3027,7 @@
             "c) Molecole che contengono solo H, O e non metalli"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "A cosa equivale una mole di fluoro allo stato gassoso?",
@@ -3037,7 +3037,7 @@
             "c) 19 g"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Quale propriet\u00e0 \u00e8 legata al numero quantico secondario l?",
@@ -3049,7 +3049,7 @@
             "e) Le dimensioni dell'orbitale"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Formula dell'acido solfidrico",
@@ -3061,7 +3061,7 @@
             "e) non ricordo"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "14 moli di CaO contengono:",
@@ -3073,7 +3073,7 @@
             "e) 14/Na molecole di Ca e 14/O molecole di O"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Qual \u00e8 la formula del permanganato di potassio",
@@ -3085,7 +3085,7 @@
             "e) KMnO3"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Quale dei seguenti composti \u00e8 prodotto dalla reazione tra acido nitrico e idrossido di zinco?",
@@ -3097,7 +3097,7 @@
             "e) Zn2N"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Una mole di una certa sostanza pesa 50 g; quanti grammi di tale sostanza avr\u00f2 alla pressione di 1 atmosfera se ho un volume di 2 litri, alla temperatura di 100K?",
@@ -3108,7 +3108,7 @@
             "d) 1/0.0821 g"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Formula del benzene",
@@ -3118,7 +3118,7 @@
             "c) C6H12"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Se una soluzione \u00e8 basica:",
@@ -3130,7 +3130,7 @@
             "e) Nessuna di queste"
         ],
         "correct": "e",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Coef ficiente di van't hof f",
@@ -3141,7 +3141,7 @@
             "d) i=1+alfa(z+1)"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Una quantit\u00e0 definita di gas ha",
@@ -3152,7 +3152,7 @@
             "d) Nessuna delle altre"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Come pu\u00f2 variare la costante di equilibrio",
@@ -3163,7 +3163,7 @@
             "d) Nessuna di queste"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quanti legami covalenti pu\u00f2 fare Xe rispettando la regola degli ottetti?",
@@ -3175,7 +3175,7 @@
             "e) 4"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Dato un grafico di una reazione esotermica (Asse y -> Energia), come varia il grafico in presenza di un catalizzatore?",
@@ -3187,7 +3187,7 @@
             "e) abbassa la coordinata dei reagenti"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Per aumentare la quantit\u00e0 di CO2 nel recipiente in cui si instaura il seguente equilibrio : MgCO3 (s) <-> MgO (s) + CO2 (g) si deve :",
@@ -3199,7 +3199,7 @@
             "e) Aumentare la pressione"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Come si formano gli idrossidi?",
@@ -3211,7 +3211,7 @@
             "e) Ossido acido + acqua"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Esiste una teoria secondo cui un acido \u00e8 una specie che:",
@@ -3223,7 +3223,7 @@
             "e) Reagisce con l'acqua"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Nomenclatura IUP AC del chetone con pi\u00f9 basso peso molare",
@@ -3235,7 +3235,7 @@
             "e) Butanone"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quanto vale il volume dell'aria secca con 0,84 moli di ossigeno gassoso",
@@ -3247,7 +3247,7 @@
             "e) nessuna delle risposte"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Quanti grammi pesano 2 moli di acqua?",
@@ -3259,7 +3259,7 @@
             "e) 36"
         ],
         "correct": "e",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Gli esteri si formano dalla reazione di un acido carbossilico ed",
@@ -3271,7 +3271,7 @@
             "e) chetoni"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Una cella voltaica trasforma",
@@ -3281,7 +3281,7 @@
             "c) Energia termica in ener gia elettrica"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quanti legami covalente singolare deve formare un atomo di ossigeno per raggiungere l'otteto?",
@@ -3293,7 +3293,7 @@
             "e) 4"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Per quale dei seguenti composti si pu\u00f2 prevedere la formazione di legame idrogeno?",
@@ -3305,7 +3305,7 @@
             "e) HBr"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Quanti metalli sono presenti nel seguente elenco: Cesio, Ittrio, Silicio, Ar gon",
@@ -3317,7 +3317,7 @@
             "e) 4"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Il cicloesano \u00e8 l'isomeria di...",
@@ -3327,7 +3327,7 @@
             "c) esene"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Dato un grafico pressione-temperatura, a volume costante, quando il grafico tocca l asse delle ascisse?",
@@ -3339,7 +3339,7 @@
             "e) In nessun punto"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Quanti sono gli isomeri di C4H10?",
@@ -3351,7 +3351,7 @@
             "e) Non esiste questa formula"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Due sostanze or ganiche diverse che presentano la stessa formula grezza possiedono :",
@@ -3363,7 +3363,7 @@
             "e) La stessa composizione percentuale"
         ],
         "correct": "e",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Nell'elettrolisi di una soluzione acquosa di KCl, al catodo si ottiene:",
@@ -3374,7 +3374,7 @@
             "d) Ossigeno atomico"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Rappresenta lo schema della pila Daniell",
@@ -3385,7 +3385,7 @@
             "d) Zn|Cu||Zn2+||Cu2+"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quale tra le seguenti scelte ha la forza di legame maggiore in ordine decrescente?",
@@ -3396,7 +3396,7 @@
             "d) HI- HF - HCl- HBr"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "A che gruppo corrisponde C6H12",
@@ -3408,7 +3408,7 @@
             "e) Due delle risposte sono giuste"
         ],
         "correct": "e",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "La molecola dell'acqua ha geometria",
@@ -3419,7 +3419,7 @@
             "d) Angolare"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "La solidificazione dell'acqua \u00e8 un processo:",
@@ -3431,7 +3431,7 @@
             "e) Nessuna delle precedenti"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quante moli di ossido di magnesio si pu\u00f2 ottenere con 1 mole di magnesio e 1 mole di ossigeno",
@@ -3443,7 +3443,7 @@
             "e) 4 mole"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Quante sono le risonanze di struttura limite dell acido nitrico?",
@@ -3455,7 +3455,7 @@
             "e) 5"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Completare la frase: \" Secondo _____ un acido \u00e8 una sostanza che in soluzione acquosa aumenta la concentrazione di ioni idrogeno \"",
@@ -3467,7 +3467,7 @@
             "e) Nernst"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quale tra i seguenti composti ha carattere basico?",
@@ -3479,7 +3479,7 @@
             "e) Un chetone"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Una soluzione acquosa non \u00e8 n\u00e9 acida n\u00e9 basica quando:",
@@ -3491,7 +3491,7 @@
             "e) Il pH \u00e8 uguale a 10-14"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Una soluzione acquosa di acido cloridrico ha pH = 4. Se la diluisco con egual volume di acqua, il pH:",
@@ -3503,7 +3503,7 @@
             "e) diminuisce di una unit\u00e0"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Una soluzione acquosa di un elettrolita  presenta, alla pressione esterna di 1 atmosfera, un punto di ebollizione:",
@@ -3515,7 +3515,7 @@
             "e) < 100K"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Calcolare la pressione osmotica di una soluzione 1M in cui V=2 L e temperatura T",
@@ -3525,7 +3525,7 @@
             "c) 2 x R x T"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Qual \u00e8 la formula del ciclopentano?",
@@ -3537,7 +3537,7 @@
             "e) C5H10"
         ],
         "correct": "e",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Cosa rappresenta il numero di moli dissociate fratto il numero di moli iniziali?",
@@ -3547,7 +3547,7 @@
             "c) Coef ficiente di van 't Hof f"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Se si diluisce una soluzione",
@@ -3559,7 +3559,7 @@
             "e) Il rapporto tra moli soluto e mol solvente aumenta"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quale tra questi non \u00e8 un ibrido di risonanza",
@@ -3570,7 +3570,7 @@
             "d) CH3COOH"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "In che caso una soluzione \u00e8 spontanea solo ad \"alte\" temperature?",
@@ -3581,7 +3581,7 @@
             "d) \u0394H>0 e \u0394S<0"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quanti atomi contiene il reticolo cubico a facce centrate?",
@@ -3593,7 +3593,7 @@
             "e) 4"
         ],
         "correct": "e",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "La solidificazione dell\u2019acqua \u00e8 da considerarsi un processo",
@@ -3603,7 +3603,7 @@
             "c) Isoentropico"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Una reazione con \u0394H = -1 15.12 \u00e8:",
@@ -3614,7 +3614,7 @@
             "d) Endotermica , quindi assorbe calore"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Cosa si ottiene da HNO2+KOH?",
@@ -3624,7 +3624,7 @@
             "c) KNO5 + H2O"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Quale composto \u00e8 pi\u00f9 acido?",
@@ -3635,7 +3635,7 @@
             "d) altri due composti or ganici"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Selezionare la corretta definizione di una reazione endotermica",
@@ -3647,7 +3647,7 @@
             "e) non mi ricordo piu dell'ultima proposta(parlava di ener gia di attivazione)"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Selezionare una corretta definizione di ener gia di seconda ionizzazone per il cloro",
@@ -3659,7 +3659,7 @@
             "e) l'ener gia richiesta pre rimuovere e portare a distanza infinita un eletrone da Cl^(-)"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Come si indica con la nomenclatura IUP AC la sostanza con simbolo CO?",
@@ -3671,7 +3671,7 @@
             "e) anidride carboniosa"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Quanti sono gli atomi in un reticolo cubico a corpo centrale?",
@@ -3683,7 +3683,7 @@
             "e) 9"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "L'anodo della pila Daniell \u00e8 formata da:",
@@ -3694,7 +3694,7 @@
             "d) un lamina di Rame immersa in una soluzione di ioni di Zinco"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quale di questi \u00e8 l'acido bromico?",
@@ -3706,7 +3706,7 @@
             "e) nessuna delle precedenti"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "In una trasformazione isoterma, il prodotto p per V",
@@ -3717,7 +3717,7 @@
             "d) Nessuna delle risposte \u00e8 completa"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Da cosa dipende la pressione parziale di un gas in una miscela gassosa di gas ideali?",
@@ -3729,7 +3729,7 @@
             "e) Tipo di gas"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Il massimo valore di n \u00e8",
@@ -3739,7 +3739,7 @@
             "c) 7"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Una mole di fluoro corrisponde a:",
@@ -3751,7 +3751,7 @@
             "e) 19 x 10^23 atomi di fluoro"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Quale af fermazione \u00e8 errata sui metalli alcalino terrosi",
@@ -3763,7 +3763,7 @@
             "e) Hanno due elettroni spaiati"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Quale delle seguenti  affermazioni si riferisce ad una reazione endotermica che avviene a temperatura e pressione costante?",
@@ -3775,7 +3775,7 @@
             "e) I prodotti hanno una entalpia inferiore a quella dei reagenti e DeltaH inferiore"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Una reazione all' equilibrio ha Kp= [C]^2 [D] / [A]^2 [B] , la reazione in questione \u00e8:",
@@ -3786,7 +3786,7 @@
             "d) C + D <--> A + B"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quale composto reagisce con H20 per dare acido nitrico?",
@@ -3798,7 +3798,7 @@
             "e) NH4+"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Qual \u00e8 la temperatura di congelamento di un elettrolita debole?",
@@ -3810,7 +3810,7 @@
             "e) Nessuna delle precedenti"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quale di questo elemento ha la massima ener gia di prima ionizzazione?",
@@ -3822,7 +3822,7 @@
             "e) Kr"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "In una soluzione a 25\u00b0C af finch\u00e9 sia basica...",
@@ -3832,7 +3832,7 @@
             "c) nessuna delle precedenti"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Il principio secondo il quale un sistema isolato conserva la sua ener gia \u00e8",
@@ -3844,7 +3844,7 @@
             "e) quarto principio della termodinamica"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "A 25\u00b0 in quali condizioni una soluzione \u00e8 acida?",
@@ -3855,7 +3855,7 @@
             "d) [H30+]>kw"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quale di queste molecole \u00e8 lineare?",
@@ -3867,7 +3867,7 @@
             "e) CH4"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Qual \u00e8 la formula del fosfato monoacido di sodio?",
@@ -3878,7 +3878,7 @@
             "d) NaH2PO3"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "CH3-CH2-NH2",
@@ -3890,7 +3890,7 @@
             "e) \u00c8 una base di Arrhenius"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quale tra questi elementi ha ener gia di prima ionizzazione pi\u00f9 bassa",
@@ -3902,7 +3902,7 @@
             "e) Ossigeno"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Che valore assume n nell'elettrone",
@@ -3912,7 +3912,7 @@
             "c) 0"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Configurazione elettronica dell'azoto",
@@ -3924,7 +3924,7 @@
             "e) \u2b06\u2b07 \u2b06\u2b07 \u2b06\u2b07 \u2b06"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Quale di queste af fermazioni \u00e8 sicuramente corretta?",
@@ -3936,7 +3936,7 @@
             "e) La costante di equilibrio dipende dalla temperatura"
         ],
         "correct": "e",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quale ha legami covalenti?",
@@ -3947,7 +3947,7 @@
             "d) H2O"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Quali di questi composti contiene un legame ionico",
@@ -3958,7 +3958,7 @@
             "d) O2"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Quale delle sequenze indicate riporta  correttamente formula del composto, tipo di ibridazione, geometria molecolare e polarit\u00e0",
@@ -3970,7 +3970,7 @@
             "e) SO2/sp2/triangolare/polare"
         ],
         "correct": "e",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Formula del Bicarbonato di sodio (bicarbonato acido di sodio)",
@@ -3982,7 +3982,7 @@
             "e) NaH2CO3"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Qual \u00e8 la formula del benzene?",
@@ -3994,7 +3994,7 @@
             "e) C6H4"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Selezionare il sale acido",
@@ -4005,7 +4005,7 @@
             "d) KHS"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quale di questi elementi ha maggiore Af finit\u00e0 Elettronica?",
@@ -4017,7 +4017,7 @@
             "e) C"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "La pila di Daniel \u00e8 una pila",
@@ -4027,7 +4027,7 @@
             "c) Alcalina"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Numero di ossidazione dello zolfo nel solfuro di ar gento",
@@ -4039,7 +4039,7 @@
             "e) 5"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Quali tra queste non \u00e8 una propriet\u00e0 dei metalli alcalini:",
@@ -4049,7 +4049,7 @@
             "c) Hanno 1 elettrone nell\u2019orbitale esterno"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Una soluzione non pu\u00f2 mai essere",
@@ -4061,7 +4061,7 @@
             "e) solida"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Poich\u00e9 una soluzione sia spontanea ad una bassa temperatura ci deve essere la seguente condizione",
@@ -4073,7 +4073,7 @@
             "e) deltaH<0 deltaS>0"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quale delle seguenti sostanze non \u00e8 tipicamente riducente?",
@@ -4085,7 +4085,7 @@
             "e) carbonio"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "In un recipiente vi \u00e8 un idrocarburo e dell'ossigeno e viene fatto reagire, ottenendo vapore e CO2. Come \u00e8 variata la densit\u00e0 della miscela?",
@@ -4097,7 +4097,7 @@
             "e) nessuna precedenti"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "In un contenitore chiuso P varia da 1 a 2 atm. Se T valeva 1 grado, dopo vale:",
@@ -4109,7 +4109,7 @@
             "e) 0"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Sapendo che il pH di una soluzione \u00e8 6 allora la concentrazione del'acido acetico \u00e8 :",
@@ -4120,7 +4120,7 @@
             "d) Non ci sono dati a suf ficienza"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Indicare, da sinistra verso destra, il numero di ossidazione che assume lo zolfo  nei seguenti composti: Solfato di Stronzio, (altro composto che non ricordo in cui il numero di ossidazione dello zolfo \u00e8 4), SO2, SO3",
@@ -4132,7 +4132,7 @@
             "e) 6,4,4,4"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Principio di indeterminazione di Heisenber g",
@@ -4143,7 +4143,7 @@
             "c) Non \u00e8 possibile conoscere con precisione la velocit\u00e0 di un elettrone"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Quanti sono gli isomeri del dibromobenzene?",
@@ -4155,7 +4155,7 @@
             "e) 6"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "I raggi X sono",
@@ -4167,7 +4167,7 @@
             "e) particelle alfa"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Una mole di ar gon contiene",
@@ -4177,7 +4177,7 @@
             "c) un numero di avogadro di atomi di Ar"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Considera dell'acqua che evapora. Quale di queste af fermazioni \u00e8 sicuramente corretta?",
@@ -4188,7 +4188,7 @@
             "d) La tensione di vapore dell'acqua varia"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quali sono i coefficienti dei REAGENTI nella seguente reazione: Idrogeno gassoso + Azoto gassoso -> Ammoniaca",
@@ -4200,7 +4200,7 @@
             "e) 1, 3, 4"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "A V=cost. Se aumento T in un gas, quale di queste propriet\u00e0 cambia?",
@@ -4210,7 +4210,7 @@
             "c) Almeno due delle risposte"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "La curva del grafico pressione vs volume per una trasformazione isocora ha un andamento:",
@@ -4222,7 +4222,7 @@
             "e) Iperbolico"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "qual'\u00e8 il numero minimo di atomi di carbonio per avere una isomeria di struttura?",
@@ -4234,7 +4234,7 @@
             "e) 5"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Cosa \u00e8 il nitrato?",
@@ -4246,7 +4246,7 @@
             "e) Un atomo"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Qual \u00e8 la formula chimica dell'acido butanoico?",
@@ -4256,7 +4256,7 @@
             "c) C4H6O2"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Indicare la formula dell'acido bromico",
@@ -4268,7 +4268,7 @@
             "e) H2Br3"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Quale composto ha formula CnH2n+2",
@@ -4279,7 +4279,7 @@
             "d) Benzene"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quale gruppo contiene solamente idracidi?",
@@ -4289,7 +4289,7 @@
             "c) HI, HN3, H2SO3"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Nel caso in cui una reazione decorra a volume costante e T costante si pu\u00f2 affermare che il calore liberato od assorbito \u00e8 sempre",
@@ -4301,7 +4301,7 @@
             "e) Uguale a quello liberato a pressione costante"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Il principio che spiega l irriversibilita dei processi naturali",
@@ -4312,7 +4312,7 @@
             "d) Terzo principio della termodinamica"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Un gas in condizion i normali viene compresso isotermicamente fino a raggiungere una pressione pari a 3 volte quella atmosferica. Cosa accade al volume del gas?",
@@ -4324,7 +4324,7 @@
             "e) Rimane invariato"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Quanti legami idrogeno pu\u00f2 fare H2S",
@@ -4336,7 +4336,7 @@
             "e) 0"
         ],
         "correct": "e",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Ho un gas a 100K e il volume aumenta de 50%. A pressione costante quale sar\u00e0 la temperatura?",
@@ -4348,7 +4348,7 @@
             "e) 200k"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Calcola il coef ficiente di V an't Hof f del acetato di magnesio 2 M?",
@@ -4359,7 +4359,7 @@
             "d) 2"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Si hanno due moli di perossido di idrogeno, Na indica il numero di avogadro. Nella molecola sono presenti",
@@ -4371,7 +4371,7 @@
             "e) 2*Na atomi di ossigeno e 2*Na atomi di idrogeno"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Quale coppia di sostanze non \u00e8 miscibile?",
@@ -4383,7 +4383,7 @@
             "e) NH3 - H2O"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quale tra queste af fermazioni NON \u00e8 valida per l'etilene?",
@@ -4393,7 +4393,7 @@
             "c) da reazioni di addizione"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quante vale la massa molare media di una miscela di gas costituita dal 50% in volume di CO (MM=28g/mol) e per la restante parte da CO2(MM=44g/mol)",
@@ -4405,7 +4405,7 @@
             "e) nessuna delle altre risposte non \u00e8 corretta"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Which are the names of the following compounds? H2SO4, Na2SO3",
@@ -4417,7 +4417,7 @@
             "e) None of the above"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "La forza elettromotrice di una cella voltaica all'equilibrio chimico vale:",
@@ -4429,7 +4429,7 @@
             "e) 1"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Qual \u00e8 la definizione del sale acido?",
@@ -4439,7 +4439,7 @@
             "c) un sale che deriva da un sale debole"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Se una mole di Magnesio ed una mole di ossigeno gassoso reagiscono completamente per dare Ossido di magnesio, quanto prodotto si forma?",
@@ -4449,7 +4449,7 @@
             "c) 2 moli"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Quale soluzione acquosa tra le seguenti, a parit\u00e0 di concentrazione, presenta maggiore valore di pH:",
@@ -4461,7 +4461,7 @@
             "e) HCl"
         ],
         "correct": "d",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "La curva del grafico pressione vs volume per una trasformazione isoterma ha un andamento:",
@@ -4473,7 +4473,7 @@
             "e) iperbolico"
         ],
         "correct": "e",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Indicare la geometria molecolare del metano.",
@@ -4485,7 +4485,7 @@
             "e) Ottaedrica"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Quale dei seguenti composti contiene un gruppo Ossidrile ( -OH)",
@@ -4497,7 +4497,7 @@
             "e) alcheni"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "-COOH Quali composti sono caratterizzati da questo gruppo?",
@@ -4507,7 +4507,7 @@
             "c) Aldeidi"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Nome di HClO4",
@@ -4519,7 +4519,7 @@
             "e) Acido clorico"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Cosa non si pu\u00f2 ottenere ossidando il 2-propanolo",
@@ -4530,7 +4530,7 @@
             "d) dimetilchetone"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quali tra questi ha un gruppo carbossile",
@@ -4540,7 +4540,7 @@
             "c) Eteri"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Indicare la valenza dell'azoto in ciascuno dei seguenti composti: NO2, Pb(NO2)2, N2O5",
@@ -4552,7 +4552,7 @@
             "e) 2, 5, 5"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Nella cella elettrolitica l'anodo rappresenta il polo",
@@ -4562,7 +4562,7 @@
             "c) dove avviene la riduzione"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Seleziona cosa non puoi trovare nella Pila Daniell",
@@ -4574,7 +4574,7 @@
             "e) Ioni SO4(2-)"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "La teoria di ... afferma che gli acidi sono delle sostanze che cedono uno ione H+ ad un altra specie chimica.",
@@ -4584,7 +4584,7 @@
             "c) Lewis"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Un ibrido di risonanza A, ha due formule limite A1 e A2. Sotto che forma \u00e8 possibile trovarlo in un composto?",
@@ -4594,7 +4594,7 @@
             "c) Come A1 e A"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Il rapporto tra l'ener gia di un fotone e la frequenza della radiazione \u00e8 uguale:",
@@ -4606,7 +4606,7 @@
             "e) alla temperatura"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Quale composto \u00e8 pi\u00f9 reattivo?",
@@ -4618,7 +4618,7 @@
             "e) Propano"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quale tra questi composti non \u00e8 polare",
@@ -4630,7 +4630,7 @@
             "e) H2O"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Che caratteristiche hanno in comune gli elementi dello stesso gruppo?",
@@ -4640,7 +4640,7 @@
             "c) Stessi numeri di ossidazione"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Seleziona la quantit\u00e0 di nitrato di litio che contiene esattamente 42 g di azoto.",
@@ -4652,7 +4652,7 @@
             "e) una molecola"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Quanti grammi di S ci sono in 2 moli di H2SO4",
@@ -4663,7 +4663,7 @@
             "d) 1 mol"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Quale di queste molecole presenta ha la maggior forza di legame",
@@ -4674,7 +4674,7 @@
             "d) acqua"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "A parit\u00e0 di pressione e temperatura, una mole di gas He occupa un volume pari a quello occupato da :",
@@ -4686,7 +4686,7 @@
             "e) 28 g di azoto"
         ],
         "correct": "e",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Un gas reale mantenuto sempre al di sopra della sua temperatura critica:",
@@ -4698,7 +4698,7 @@
             "e) Pu\u00f2 essere e non essere liquefatto, a seconda delle condizioni adottate"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Mettere in ordine crescente i seguenti composti in base al numero di ossidazione O2, H2O2, Na2O, F2O, CO2",
@@ -4710,7 +4710,7 @@
             "e) nessuna delle precedenti"
         ],
         "correct": "b",
-        "type": "esame"
+        "type": "parziale1"
     },
     {
         "question": "Il coef ficiente di V an't Hof f dipende :",
@@ -4721,7 +4721,7 @@
             "d) dalle moli di solvente"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Quanti sono gli isomeri del diclorobenzene?",
@@ -4733,7 +4733,7 @@
             "e) 6"
         ],
         "correct": "c",
-        "type": "esame"
+        "type": "parziale2"
     },
     {
         "question": "Scegliere la giusta formula bruta del benzene",
@@ -4743,6 +4743,6 @@
             "c) C4H6"
         ],
         "correct": "a",
-        "type": "esame"
+        "type": "parziale2"
     }
 ]
