@@ -111,7 +111,7 @@ function end(){
 
     document.querySelector("#points").innerHTML = points
     document.querySelector("#maxpoints").innerHTML = 9
-    if (points > 5.51) {
+    if (points > 5.5) {
         document.querySelector("#tag-points").innerHTML = '<span class="badge text-bg-success">Superato</span>'
     } else {
         document.querySelector("#tag-points").innerHTML = '<span class="badge text-bg-danger">Non superato</span>'
@@ -123,6 +123,16 @@ function end(){
     } else {
         document.querySelector("#tag-time").innerHTML = '<span class="badge text-bg-danger">Fuori tempo</span>'
     }
+
+    // Save to localstorage
+    let savedResults = localStorage.getItem("results"), jsonArr
+    if (savedResults === null){
+        jsonArr = [{"endTime": new Date().toLocaleString(), "points": points, "secondsElapsed": elapsed}]
+    } else {
+        jsonArr = JSON.parse(savedResults)
+        jsonArr.push({"endTime": new Date().toLocaleString(), "points": points, "secondsElapsed": elapsed})
+    }
+    localStorage.setItem("results", JSON.stringify(jsonArr))
 }
 
 document.querySelector("#btn-start").addEventListener('click', start)
