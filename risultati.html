@@ -90,7 +90,7 @@
             let html, pointsSum = 0, secondsSum = 0
             let labels = [], pointsSet = []
             jsonArr.forEach(el => {
-                pointsSum += el.points
+                pointsSum += parseFloat(el.points)
                 secondsSum += el.secondsElapsed
                 labels.push(el.endTime)
                 pointsSet.push(el.points)
@@ -109,7 +109,7 @@
             document.querySelector("#table-body").innerHTML += 
             `<tr>
                 <th scope="row"><b>Risultati medi</b></th>
-                <td>${Math.round(pointsSum / jsonArr.length)}</td>
+                <td>${(Math.round(pointsSum) / jsonArr.length).toFixed(2)}</td>
                 <td>${Timer.formatTime(Math.round(secondsSum / jsonArr.length))}</td>
                 <td></td>
             </tr>`
